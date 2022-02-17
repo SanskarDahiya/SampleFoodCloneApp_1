@@ -3,6 +3,8 @@ import {Image, Text, View, TouchableOpacity} from 'react-native';
 import {getImageUrl, getResUrl} from './../apis';
 import Ionicons from 'react-native-vector-icons/Ionicons';
 
+import {NavigationContext} from '@react-navigation/native';
+
 const RestaurentSingle = props => {
   const {
     data: {
@@ -14,10 +16,13 @@ const RestaurentSingle = props => {
       sla: {slaString} = {},
     } = {},
   } = props;
+  const navigation = React.useContext(NavigationContext, {data: props.data});
+
   return (
     <TouchableOpacity
       onPress={() => {
         console.log('Clieckei');
+        navigation.navigate('SINGLE_PAGE');
       }}>
       <View
         style={{
