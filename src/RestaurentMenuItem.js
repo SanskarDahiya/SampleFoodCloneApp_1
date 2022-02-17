@@ -16,7 +16,7 @@ const RestaurentSingle = props => {
       sla: {slaString} = {},
     } = {},
   } = props;
-  const navigation = React.useContext(NavigationContext, {data: props.data});
+  const navigation = React.useContext(NavigationContext);
 
   return (
     <TouchableOpacity

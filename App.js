@@ -8,7 +8,7 @@ import Ionicons from 'react-native-vector-icons/Ionicons';
 import HomeScreen from './src/Home';
 import SingleRestaurentPage from './src/SingleRestaurentPage';
 import {getCartReducer} from './src/ContextData';
-
+import CartMenu from './src/CartMenu';
 const Stack = createNativeStackNavigator();
 const Tab = createBottomTabNavigator();
 
@@ -26,17 +26,7 @@ function CartScreen() {
             </View>
           );
         } else {
-          return (
-            <View
-              style={{
-                flex: 1,
-                backgroundColor: 'white',
-                justifyContent: 'center',
-                alignItems: 'center',
-              }}>
-              <Text>{items.join('\n\n<<>>')}</Text>
-            </View>
-          );
+          return <CartMenu data={cartData} menu={items} />;
         }
       }}
     </CartData.Consumer>
