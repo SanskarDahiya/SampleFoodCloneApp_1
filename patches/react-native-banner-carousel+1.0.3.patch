@@ -1,0 +1,12 @@
+diff --git a/node_modules/react-native-banner-carousel/out/Carousel.js b/node_modules/react-native-banner-carousel/out/Carousel.js
+index c270b5f..e0d2116 100644
+--- a/node_modules/react-native-banner-carousel/out/Carousel.js
++++ b/node_modules/react-native-banner-carousel/out/Carousel.js
+@@ -293,6 +293,7 @@ Carousel.defaultProps = {
+     pageIndicatorOffset: 16,
+     animation: (animate, toValue) => {
+         return react_native_1.Animated.spring(animate, {
++            useNativeDriver:false,
+             toValue: toValue,
+             friction: 10,
+             tension: 50

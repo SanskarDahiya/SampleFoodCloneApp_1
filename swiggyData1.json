@@ -1,0 +1,2617 @@
+[
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Restaurant",
+        "info": {
+          "id": "54876",
+          "name": "Delhi 6",
+          "city": "Delhi",
+          "slugs": {
+            "restaurant": "delhi-6-gt-karnal-road-gtb-nagar",
+            "city": "delhi"
+          },
+          "uniqueId": "9302474e-a6f4-47dc-8d82-73b2e6b363a8",
+          "cloudinaryImageId": "abr824zesy5wyp31oku5",
+          "locality": "GT Karnal Road",
+          "areaName": "Ashok Vihar",
+          "costForTwo": "50000",
+          "costForTwoMessage": "₹500 for two",
+          "cuisines": ["Mughlai", "North Indian"],
+          "feeDetails": {
+            "restaurantId": "54876",
+            "fees": [
+              {
+                "name": "distance",
+                "fee": 3600
+              },
+              {
+                "name": "time"
+              },
+              {
+                "name": "special"
+              }
+            ],
+            "totalFee": 3600,
+            "title": "Delivery Charge",
+            "amount": "3600"
+          },
+          "parentId": "2606",
+          "avgRatingString": "--",
+          "totalRatingsString": "Too Few Ratings",
+          "sla": {
+            "restaurantId": "54876",
+            "deliveryTime": 40,
+            "minDeliveryTime": 40,
+            "maxDeliveryTime": 40,
+            "lastMileTravel": 4.3,
+            "serviceability": "SERVICEABLE",
+            "stressFactor": 1,
+            "rainMode": "RAIN_MODE_NONE",
+            "longDistance": "LONG_DISTANCE_NOT_LONG_DISTANCE",
+            "zoneId": 284,
+            "slaString": "40 MINS",
+            "lastMileTravelString": "4.3 kms",
+            "iconType": "ICON_TYPE_EMPTY"
+          },
+          "availability": {
+            "nextCloseTime": "2022-02-18 03:00:00",
+            "visibility": true,
+            "opened": true,
+            "restaurantClosedMeta": {}
+          },
+          "aggregatedDiscountInfo": {
+            "shortDescriptionList": [
+              {
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              },
+              {
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "20% off up to ₹125 | Use KOTAK125 Above ₹500",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              },
+              {
+                "meta": "20% off up to ₹150 | Use PAYTMBANK150 Above ₹450",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "visible": true
+          },
+          "badges": {},
+          "slugString": "delhi-6-gt-karnal-road-gtb-nagar",
+          "isOpen": true,
+          "labels": [
+            {
+              "title": "Timings",
+              "message": "null"
+            },
+            {
+              "title": "Address",
+              "message": "3259-60, sadar bahadur garh bara hindu rao\t"
+            },
+            {
+              "title": "Cuisines",
+              "message": "Mughlai,North Indian"
+            }
+          ],
+          "aggregatedDiscountInfoV2": {
+            "shortDescriptionList": [
+              {
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              },
+              {
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "descriptionList": [
+              {
+                "meta": "20% off up to ₹125 | Use KOTAK125 Above ₹500",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              },
+              {
+                "meta": "20% off up to ₹150 | Use PAYTMBANK150 Above ₹450",
+                "discountType": "Percentage",
+                "operationType": "RESTAURANT"
+              }
+            ],
+            "couponDetailsCta": "View coupon details"
+          },
+          "type": "F",
+          "headerBanner": {
+            "url": "swiggy://webview?is_external=false&webview_url=https://www.swiggy.com/restaurant-info/54876"
+          },
+          "expectationNotifiers": [
+            {
+              "icon": {},
+              "popup": {
+                "cta": {}
+              },
+              "type": "DISTANCE_FEE_NON_FOOD_LM"
+            }
+          ],
+          "hasHealthyItems": true
+        },
+        "analytics": {}
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.GridWidget",
+        "layout": {
+          "rows": 1,
+          "columns": 2,
+          "horizontalScrollEnabled": true,
+          "itemSpacing": 12,
+          "lineSpacing": 10,
+          "widgetPadding": {},
+          "containerStyle": {
+            "containerPadding": {
+              "left": 10,
+              "right": 10
+            }
+          },
+          "scrollBar": {
+            "scrollThumbColor": "#E46D47",
+            "scrollTrackColor": "#e4e4e4",
+            "width": 54,
+            "height": 4,
+            "scrollStyling": {
+              "padding": {
+                "top": 20,
+                "bottom": 20
+              }
+            }
+          }
+        },
+        "id": "offerCollectionWidget",
+        "gridElements": {
+          "infoWithStyle": {
+            "@type": "type.googleapis.com/swiggy.presentation.food.v2.OfferInfoWithStyle",
+            "offers": [
+              {
+                "info": {
+                  "header": "20% OFF UPTO ₹125",
+                  "offerTagColor": "#E46D47",
+                  "logoBottom": "rng/md/ads/production/wpsccqs2ust1pozn5ukd",
+                  "offerIds": ["b380cf9a-0667-415c-9109-657b30b5ccff"],
+                  "expiryTime": "1970-01-01T00:00:00Z",
+                  "couponCode": "USE KOTAK125",
+                  "description": "ABOVE ₹500",
+                  "offerType": "offers",
+                  "restId": "54876",
+                  "offerLogo": "offers/generic"
+                },
+                "cta": {
+                  "type": "OFFER_HALF_CARD"
+                }
+              },
+              {
+                "info": {
+                  "header": "20% OFF UPTO ₹150",
+                  "offerTagColor": "#E46D47",
+                  "logoBottom": "rng/md/ads/production/bsptabfzkam9szsgf9wm",
+                  "offerIds": ["969a3af4-12fe-48f3-b8f4-0c75b6eb473a"],
+                  "expiryTime": "1970-01-01T00:00:00Z",
+                  "couponCode": "USE PAYTMBANK150",
+                  "description": "ABOVE ₹450",
+                  "offerType": "offers",
+                  "restId": "54876",
+                  "offerLogo": "offers/generic"
+                },
+                "cta": {
+                  "type": "OFFER_HALF_CARD"
+                }
+              }
+            ]
+          }
+        }
+      }
+    }
+  },
+  {
+    "card": {
+      "card": {
+        "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuTab",
+        "tabs": [
+          {
+            "id": "REGULAR",
+            "title": "Full Menu",
+            "selected": true,
+            "analytics": {},
+            "selectedImage": "v1594205104/fullMenuActive_qcsdzt.png",
+            "unselectedImage": "v1594205107/fullMenuInactive_fbdtp2.png"
+          },
+          {
+            "id": "HEALTHY",
+            "title": "Healthy",
+            "analytics": {},
+            "selectedImage": "v1594205112/healthMenuActive_rsmsu0.png",
+            "unselectedImage": "v1594205116/healthMenuInactive_y7qesh.png",
+            "tag": "NEW"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "groupedCard": {
+      "cardGroupMap": {
+        "REGULAR": {
+          "cards": [
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.MenuVegFilterAndBadge",
+                  "badges": {},
+                  "vegOnlyDetails": {
+                    "imageId": "AutoVegOnly_qkjowj",
+                    "title": "Showing only vegetarian options.",
+                    "description": "Tap on the VEG ONLY button to turn off the setting"
+                  }
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                  "title": "Recommended",
+                  "itemCards": [
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597204",
+                          "name": "Chicken Tandoori (Butter)",
+                          "category": "Starters",
+                          "description": "Tandoori chicken, a dish of roasted chicken marinated in yogurt and generously spiced, giving the meat its trademark red color. It is named for the cylindrical clay oven in which it is cooked, a tandoor.",
+                          "imageId": "uymbk2x3plevalgnhnpk",
+                          "inStock": 1,
+                          "price": 19900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284128",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Quarter",
+                                    "id": "4514102",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Half",
+                                    "price": 20000,
+                                    "id": "4514103",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 50000,
+                                    "default": 1,
+                                    "id": "4514104",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597213",
+                          "name": "Chicken Afghani",
+                          "category": "Starters",
+                          "description": "Chicken pieces(with bone) prepared in cream, yoghurt, warm spices and herbs, cooked in tandoor to perfection. Serves 1-2.",
+                          "imageId": "jhyxys1765appkupeauh",
+                          "inStock": 1,
+                          "price": 19900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284131",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Quarter",
+                                    "id": "4514111",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Half",
+                                    "price": 19000,
+                                    "default": 1,
+                                    "id": "4514112",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 38000,
+                                    "id": "4514113",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597218",
+                          "name": "Chicken Tikka (butter) 8pcs",
+                          "category": "Starters",
+                          "description": "Chicken tikka , dish consisting of marinated boneless chicken pieces that are traditionally cooked in a tandoor and then served in a subtly spiced tomato-cream sauce.",
+                          "imageId": "jykgfnn5qnuhrxunqxkx",
+                          "inStock": 1,
+                          "price": 24900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597220",
+                          "name": "Chicken Malai Tikka (boneless)",
+                          "category": "Starters",
+                          "description": "Its an amazing, mouth watering and melt in the mouth chicken appetizer. This chicken malai tikka has to be our favourite chicken grill recipe.",
+                          "imageId": "d9qhynkad2nsn8ucvmra",
+                          "inStock": 1,
+                          "price": 24900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597222",
+                          "name": "Chicken Seekh Kebab ",
+                          "category": "Starters",
+                          "description": "Old delhi chicken seekh prepared with minced chicken mixed in Indian spices ,rooled onto skewers and cooked on charcoal.(Serves 1-2).",
+                          "imageId": "n6uxt7pobbawcgvm7roa",
+                          "inStock": 1,
+                          "price": 23000,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597226",
+                          "name": "Fried Chicken ",
+                          "category": "Starters",
+                          "description": "Juicy and tender chicken dipped in a seasoned batter and fried to golden perfection.",
+                          "imageId": "wzha18mabijtsvqxqonp",
+                          "inStock": 1,
+                          "price": 15900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284132",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Quarter",
+                                    "default": 1,
+                                    "id": "4514114",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Half",
+                                    "price": 17000,
+                                    "id": "4514115",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 43000,
+                                    "id": "4514116",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {
+                            "text": "Bestseller",
+                            "textColor": "#ffffff",
+                            "topBackgroundColor": "#d53d4c",
+                            "bottomBackgroundColor": "#b02331"
+                          },
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "64220540",
+                          "name": "Changezi Chicken",
+                          "category": "Main Course",
+                          "description": "A Mughlai delicacy prepared with marinated chicken fried and simmered in a rich ghee, tomato puree, milk, cream, spice powder, onion, cashew paste and more.",
+                          "imageId": "huggzbm5nzuyixcofxpj",
+                          "inStock": 1,
+                          "price": 24900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {
+                            "text": "Bestseller",
+                            "textColor": "#ffffff",
+                            "topBackgroundColor": "#d53d4c",
+                            "bottomBackgroundColor": "#b02331"
+                          },
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597240",
+                          "name": "Chicken Korma",
+                          "category": "Main Course",
+                          "description": "Chicken korma is a traditional Indian dish that's light and flavorful almond curry made with tomato paste, plenty of spices and cream thats buttery and completely delicious.",
+                          "imageId": "ez6brnwb6cfpjqmuzlo0",
+                          "inStock": 1,
+                          "price": 26900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284135",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Quarter",
+                                    "id": "4514122",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Half",
+                                    "price": 57800,
+                                    "id": "4514123",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 58000,
+                                    "default": 1,
+                                    "id": "4514124",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597241",
+                          "name": "Tawa Chicken",
+                          "category": "Main Course",
+                          "description": "Chicken pieces are marinaded in a paste with gram flour and spices and cooked in a spiced curry.",
+                          "imageId": "sgtqhpa2v6w62rc7biyp",
+                          "inStock": 1,
+                          "price": 23900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284136",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Quarter",
+                                    "default": 1,
+                                    "id": "4514125",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Half",
+                                    "price": 26900,
+                                    "id": "4514126",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 58000,
+                                    "id": "4514127",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597253",
+                          "name": "Butter Chicken",
+                          "category": "Main Course",
+                          "description": "A popular delight which is creamy and indulgent dish with chicken pieces cooked in an onion tomato based gravy.",
+                          "imageId": "rfc3jwzn1vufaifr9a6c",
+                          "inStock": 1,
+                          "price": 23900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284147",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Quarter",
+                                    "default": 1,
+                                    "id": "4514158",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Half",
+                                    "price": 27000,
+                                    "id": "4514159",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 57000,
+                                    "id": "4514160",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597201",
+                          "name": "Chicken Dum Biryani (Special)",
+                          "category": "Main Course",
+                          "imageId": "aplql4bcli71fyk6assl",
+                          "inStock": 1,
+                          "price": 16900,
+                          "variants": {
+                            "variantGroups": [
+                              {
+                                "groupId": "1284125",
+                                "name": "Quantity",
+                                "variations": [
+                                  {
+                                    "name": "Half",
+                                    "default": 1,
+                                    "id": "4514095",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  },
+                                  {
+                                    "name": "Full",
+                                    "price": 15000,
+                                    "id": "4514096",
+                                    "inStock": 1,
+                                    "isEnabled": 1
+                                  }
+                                ]
+                              }
+                            ]
+                          },
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {
+                            "text": "Bestseller",
+                            "textColor": "#ffffff",
+                            "topBackgroundColor": "#d53d4c",
+                            "bottomBackgroundColor": "#b02331"
+                          },
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597206",
+                          "name": "Khamiri Roti",
+                          "category": "Main Course",
+                          "imageId": "tfqsu8hprj3zh59moang",
+                          "inStock": 1,
+                          "isVeg": 1,
+                          "price": 1800,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "VEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "61341208",
+                          "name": "Tandoori Chicken Diet",
+                          "category": "Healthy Menu",
+                          "description": "(250 Gms)",
+                          "imageId": "wlljqiwwlofnjk8mkqdv",
+                          "inStock": 1,
+                          "price": 23900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "showImage": true,
+                          "itemBadge": {
+                            "text": "Healthy Choice",
+                            "backgroundColor": "#F9F9F9",
+                            "textColor": "#0F866B"
+                          },
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {
+                                "badgeObject": [
+                                  {
+                                    "id": "6",
+                                    "attributes": {
+                                      "title": "337 kcal",
+                                      "textColor": "#60874A",
+                                      "backGroundColor": "#EEFFE3"
+                                    }
+                                  }
+                                ]
+                              },
+                              "ItemTextBadge": {
+                                "badgeObject": [
+                                  {
+                                    "id": "5",
+                                    "attributes": {
+                                      "title": "Healthy Choice",
+                                      "textColor": "#0f866b",
+                                      "backGroundColor": "#f3f3f3"
+                                    }
+                                  }
+                                ]
+                              },
+                              "HealthItemTextBadge": {
+                                "badgeObject": [
+                                  {
+                                    "id": "7",
+                                    "attributes": {
+                                      "textColor": "#CE881F",
+                                      "backGroundColor": "#FFFAD0",
+                                      "title": "Keto Friendly"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "isHealthy": true
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    }
+                  ],
+                  "type": "CATEGORY_TYPE_RECOMMENDED"
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                  "title": "Swiggy Exclusive Combos",
+                  "itemCards": [
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "49265847",
+                          "name": "Tawa Chicken+ 3 Khamiri Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "description": "Scrumptious and mouthwatering tawa chicken cooked with healthy clarified butter. Served with 3 khamiri roti.",
+                          "inStock": 1,
+                          "price": 34900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "49265845",
+                          "name": "Half Afghani Chicken+ 4 Rumali Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "description": "Chicken pieces(with bone) prepared in cream, yoghurt, warm spices and herbs, cooked in tandoor to perfection served with 4 roti's.",
+                          "inStock": 1,
+                          "price": 35500,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "49265485",
+                          "name": "1 Plate Chicken Malai Tikka+ 3 Rumali Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "inStock": 1,
+                          "price": 26500,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "48888866",
+                          "name": "Qtr Afghani Chicken+2 Rumali Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "description": "Chicken pieces(with bone) prepared in cream, yoghurt, warm spices and herbs, cooked in tandoor to perfection. Serves 1-2.",
+                          "inStock": 1,
+                          "price": 24900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "48878461",
+                          "name": "1 Plate Chicken Seekh Kabab (6pcs)+2 Rumali Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "inStock": 1,
+                          "price": 20900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "38723533",
+                          "name": "2pcs Tawa Chicken+2 Khamiri Rotikhamiri",
+                          "category": "Swiggy Exclusive Combos",
+                          "description": "Chicken pieces are marinaded in a paste with gram flour and spices and cooked in a spiced curry served with 2 khamiri roti.",
+                          "inStock": 1,
+                          "price": 19900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {
+                            "text": "Bestseller",
+                            "textColor": "#ffffff",
+                            "topBackgroundColor": "#d53d4c",
+                            "bottomBackgroundColor": "#b02331"
+                          },
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "38723534",
+                          "name": "2pcs Butter Chicken+2 Khamiri Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "description": "A popular delight which is creamy and indulgent dish with chicken pieces cooked in an onion tomato based gravy served with 2 roti's.",
+                          "inStock": 1,
+                          "price": 19900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {
+                            "text": "Bestseller",
+                            "textColor": "#ffffff",
+                            "topBackgroundColor": "#d53d4c",
+                            "bottomBackgroundColor": "#b02331"
+                          },
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "69989385",
+                          "name": "Qtr Tandoori Chicken With Butter+2pcs Butter Chicken+2khamiri Roti+2 Rumali Roti",
+                          "category": "Swiggy Exclusive Combos",
+                          "inStock": 1,
+                          "price": 27900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "71363340",
+                          "name": "10 Rumali's Pack",
+                          "category": "Swiggy Exclusive Combos",
+                          "inStock": 1,
+                          "isVeg": 1,
+                          "price": 11900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "VEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                  "title": "Starters",
+                  "categories": [
+                    {
+                      "title": "Chicken",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597202",
+                              "name": "Chicken Tandoori(Diet)",
+                              "category": "Starters",
+                              "description": "A delightfully wholesome combo with mouthwatering tandoori chicken (with bones); served along with onion salad.",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284126",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "default": 1,
+                                        "id": "4514097",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 12000,
+                                        "id": "4514098",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 36000,
+                                        "id": "4514099",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597204",
+                              "name": "Chicken Tandoori (Butter)",
+                              "category": "Starters",
+                              "description": "Tandoori chicken, a dish of roasted chicken marinated in yogurt and generously spiced, giving the meat its trademark red color. It is named for the cylindrical clay oven in which it is cooked, a tandoor.",
+                              "imageId": "uymbk2x3plevalgnhnpk",
+                              "inStock": 1,
+                              "price": 19900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284128",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "id": "4514102",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 20000,
+                                        "id": "4514103",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 50000,
+                                        "default": 1,
+                                        "id": "4514104",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597207",
+                              "name": "Chicken Malai Tandoori",
+                              "category": "Starters",
+                              "description": "Tandoor-cooked chicken chunks marinated in a yogurt and chilli based masala and cooked in tandoor.",
+                              "inStock": 1,
+                              "price": 18000,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284129",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "default": 1,
+                                        "id": "4514105",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 26000,
+                                        "id": "4514106",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 47000,
+                                        "id": "4514107",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597213",
+                              "name": "Chicken Afghani",
+                              "category": "Starters",
+                              "description": "Chicken pieces(with bone) prepared in cream, yoghurt, warm spices and herbs, cooked in tandoor to perfection. Serves 1-2.",
+                              "imageId": "jhyxys1765appkupeauh",
+                              "inStock": 1,
+                              "price": 19900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284131",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "id": "4514111",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 19000,
+                                        "default": 1,
+                                        "id": "4514112",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 38000,
+                                        "id": "4514113",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597216",
+                              "name": "Chicken Tangdi (4 Pcs)",
+                              "category": "Starters",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597218",
+                              "name": "Chicken Tikka (butter) 8pcs",
+                              "category": "Starters",
+                              "description": "Chicken tikka , dish consisting of marinated boneless chicken pieces that are traditionally cooked in a tandoor and then served in a subtly spiced tomato-cream sauce.",
+                              "imageId": "jykgfnn5qnuhrxunqxkx",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597220",
+                              "name": "Chicken Malai Tikka (boneless)",
+                              "category": "Starters",
+                              "description": "Its an amazing, mouth watering and melt in the mouth chicken appetizer. This chicken malai tikka has to be our favourite chicken grill recipe.",
+                              "imageId": "d9qhynkad2nsn8ucvmra",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597222",
+                              "name": "Chicken Seekh Kebab ",
+                              "category": "Starters",
+                              "description": "Old delhi chicken seekh prepared with minced chicken mixed in Indian spices ,rooled onto skewers and cooked on charcoal.(Serves 1-2).",
+                              "imageId": "n6uxt7pobbawcgvm7roa",
+                              "inStock": 1,
+                              "price": 23000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597226",
+                              "name": "Fried Chicken ",
+                              "category": "Starters",
+                              "description": "Juicy and tender chicken dipped in a seasoned batter and fried to golden perfection.",
+                              "imageId": "wzha18mabijtsvqxqonp",
+                              "inStock": 1,
+                              "price": 15900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284132",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "default": 1,
+                                        "id": "4514114",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 17000,
+                                        "id": "4514115",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 43000,
+                                        "id": "4514116",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.NestedItemCategory",
+                  "title": "Main Course",
+                  "categories": [
+                    {
+                      "title": "Veg Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597231",
+                              "name": "Shahi Paneer ",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597232",
+                              "name": "Kadhai Paneer",
+                              "category": "Main Course",
+                              "description": "A flavoursome indulgence made by cooking paneer cubes in a tomato gravy seasoned with Indian spices and veggies.",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 21900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597234",
+                              "name": "Mixed Veg",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 17000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "78664352",
+                              "name": "Dal Makhni",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 16900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Chicken Main Course",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "64220540",
+                              "name": "Changezi Chicken",
+                              "category": "Main Course",
+                              "description": "A Mughlai delicacy prepared with marinated chicken fried and simmered in a rich ghee, tomato puree, milk, cream, spice powder, onion, cashew paste and more.",
+                              "imageId": "huggzbm5nzuyixcofxpj",
+                              "inStock": 1,
+                              "price": 24900,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597240",
+                              "name": "Chicken Korma",
+                              "category": "Main Course",
+                              "description": "Chicken korma is a traditional Indian dish that's light and flavorful almond curry made with tomato paste, plenty of spices and cream thats buttery and completely delicious.",
+                              "imageId": "ez6brnwb6cfpjqmuzlo0",
+                              "inStock": 1,
+                              "price": 26900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284135",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "id": "4514122",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 57800,
+                                        "id": "4514123",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 58000,
+                                        "default": 1,
+                                        "id": "4514124",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597241",
+                              "name": "Tawa Chicken",
+                              "category": "Main Course",
+                              "description": "Chicken pieces are marinaded in a paste with gram flour and spices and cooked in a spiced curry.",
+                              "imageId": "sgtqhpa2v6w62rc7biyp",
+                              "inStock": 1,
+                              "price": 23900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284136",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "default": 1,
+                                        "id": "4514125",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 26900,
+                                        "id": "4514126",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 58000,
+                                        "id": "4514127",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597224",
+                              "name": "Chicken Seekh Kebab (Gravy) ",
+                              "category": "Main Course",
+                              "description": "Minced chicken prepared in indian spices ,rooled onto skewers and cooked on charcoal.",
+                              "inStock": 1,
+                              "price": 22000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597253",
+                              "name": "Butter Chicken",
+                              "category": "Main Course",
+                              "description": "A popular delight which is creamy and indulgent dish with chicken pieces cooked in an onion tomato based gravy.",
+                              "imageId": "rfc3jwzn1vufaifr9a6c",
+                              "inStock": 1,
+                              "price": 23900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284147",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Quarter",
+                                        "default": 1,
+                                        "id": "4514158",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Half",
+                                        "price": 27000,
+                                        "id": "4514159",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 57000,
+                                        "id": "4514160",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Biryani's & Pulao",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597201",
+                              "name": "Chicken Dum Biryani (Special)",
+                              "category": "Main Course",
+                              "imageId": "aplql4bcli71fyk6assl",
+                              "inStock": 1,
+                              "price": 16900,
+                              "variants": {
+                                "variantGroups": [
+                                  {
+                                    "groupId": "1284125",
+                                    "name": "Quantity",
+                                    "variations": [
+                                      {
+                                        "name": "Half",
+                                        "default": 1,
+                                        "id": "4514095",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      },
+                                      {
+                                        "name": "Full",
+                                        "price": 15000,
+                                        "id": "4514096",
+                                        "inStock": 1,
+                                        "isEnabled": 1
+                                      }
+                                    ]
+                                  }
+                                ]
+                              },
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "NONVEG"
+                              },
+                              "ribbon": {
+                                "text": "Bestseller",
+                                "textColor": "#ffffff",
+                                "topBackgroundColor": "#d53d4c",
+                                "bottomBackgroundColor": "#b02331"
+                              },
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    },
+                    {
+                      "title": "Indian Breads",
+                      "itemCards": [
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "64655975",
+                              "name": "Khamiri Roti (5roti's)",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 7500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597206",
+                              "name": "Khamiri Roti",
+                              "category": "Main Course",
+                              "imageId": "tfqsu8hprj3zh59moang",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1800,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597208",
+                              "name": "Khamiri Butter Roti ",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2200,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597209",
+                              "name": "Tandoori Roti",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597211",
+                              "name": "Tandoori Butter Roti",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 1500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "13597212",
+                              "name": "Rumali Roti",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 2000,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {},
+                                  "HealthItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        },
+                        {
+                          "card": {
+                            "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                            "info": {
+                              "id": "64655970",
+                              "name": "Rumali Roti (5 Pcs)",
+                              "category": "Main Course",
+                              "inStock": 1,
+                              "isVeg": 1,
+                              "price": 6500,
+                              "variants": {},
+                              "variantsV2": {},
+                              "itemAttribute": {
+                                "vegClassifier": "VEG"
+                              },
+                              "ribbon": {},
+                              "type": "ITEM",
+                              "itemBadge": {},
+                              "badgesV2": {
+                                "entityBadges": {
+                                  "HealthItemTextBadge": {},
+                                  "EnergyInfoTextBadge": {},
+                                  "ItemTextBadge": {}
+                                }
+                              }
+                            },
+                            "analytics": {},
+                            "hideRestaurantDetails": true
+                          }
+                        }
+                      ]
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                  "title": "Desserts",
+                  "itemCards": [
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "13597225",
+                          "name": "Kheer",
+                          "category": "Desserts",
+                          "inStock": 1,
+                          "isVeg": 1,
+                          "price": 8900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "VEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                  "title": "Healthy Menu",
+                  "itemCards": [
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "61341208",
+                          "name": "Tandoori Chicken Diet",
+                          "category": "Healthy Menu",
+                          "description": "(250 Gms)",
+                          "imageId": "wlljqiwwlofnjk8mkqdv",
+                          "inStock": 1,
+                          "price": 23900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {
+                            "text": "Healthy Choice",
+                            "backgroundColor": "#F9F9F9",
+                            "textColor": "#0F866B"
+                          },
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {
+                                "badgeObject": [
+                                  {
+                                    "id": "6",
+                                    "attributes": {
+                                      "title": "337 kcal",
+                                      "textColor": "#60874A",
+                                      "backGroundColor": "#EEFFE3"
+                                    }
+                                  }
+                                ]
+                              },
+                              "ItemTextBadge": {
+                                "badgeObject": [
+                                  {
+                                    "id": "5",
+                                    "attributes": {
+                                      "title": "Healthy Choice",
+                                      "textColor": "#0f866b",
+                                      "backGroundColor": "#f3f3f3"
+                                    }
+                                  }
+                                ]
+                              },
+                              "HealthItemTextBadge": {
+                                "badgeObject": [
+                                  {
+                                    "id": "7",
+                                    "attributes": {
+                                      "title": "Keto Friendly",
+                                      "textColor": "#CE881F",
+                                      "backGroundColor": "#FFFAD0"
+                                    }
+                                  }
+                                ]
+                              }
+                            }
+                          },
+                          "isHealthy": true
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.ItemCategory",
+                  "title": "Family Binge Combos",
+                  "itemCards": [
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "60533934",
+                          "name": "Half Afghani Chicken + Half Chicken Korma + 4 Khamiri Roti + 4 Rumali Roti",
+                          "category": "Family Binge Combos",
+                          "inStock": 1,
+                          "price": 94900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {},
+                              "EnergyInfoTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "60534181",
+                          "name": "Half Tandoori Chicken With Butter + 3 Rumali Roti",
+                          "category": "Family Binge Combos",
+                          "inStock": 1,
+                          "price": 42900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "60534187",
+                          "name": "Half Afghani Chicken + 3 Rumali Roti",
+                          "category": "Family Binge Combos",
+                          "inStock": 1,
+                          "price": 44900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    },
+                    {
+                      "card": {
+                        "@type": "type.googleapis.com/swiggy.presentation.food.v2.Dish",
+                        "info": {
+                          "id": "60534191",
+                          "name": "Half Chicken Changezi + 4 Khamiri Roti.",
+                          "category": "Family Binge Combos",
+                          "inStock": 1,
+                          "price": 42900,
+                          "variants": {},
+                          "variantsV2": {},
+                          "itemAttribute": {
+                            "vegClassifier": "NONVEG"
+                          },
+                          "ribbon": {},
+                          "type": "ITEM",
+                          "itemBadge": {},
+                          "badgesV2": {
+                            "entityBadges": {
+                              "EnergyInfoTextBadge": {},
+                              "ItemTextBadge": {},
+                              "HealthItemTextBadge": {}
+                            }
+                          }
+                        },
+                        "analytics": {},
+                        "hideRestaurantDetails": true
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantLicenseInfo",
+                  "type": "FSSAI",
+                  "imageId": "fssai_final_edss9i",
+                  "text": ["License No. 23322005000092"]
+                }
+              }
+            },
+            {
+              "card": {
+                "card": {
+                  "@type": "type.googleapis.com/swiggy.presentation.food.v2.RestaurantAddress",
+                  "name": "Delhi 6",
+                  "area": "Ashok Vihar",
+                  "completeAddress": "3259-60, sadar bahadur garh bara hindu rao\t"
+                }
+              }
+            }
+          ]
+        }
+      }
+    }
+  }
+]

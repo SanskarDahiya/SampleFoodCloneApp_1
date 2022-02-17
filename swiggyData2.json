@@ -1,0 +1,1896 @@
+[
+  {
+    "bannerCarousel": [
+      {
+        "id": "270182",
+        "imageId": "rng/md/carousel/production/bkmyqxe9mmncz7uf7hnp",
+        "action": {
+          "link": "swiggy://collectionV2?collection_id=34356&tags=",
+          "type": "DEEPLINK"
+        },
+        "entityType": "collectionv2",
+        "entityId": "34356"
+      },
+      {
+        "id": "478405",
+        "imageId": "rng/md/carousel/production/sm1rvbv69isy1ysncxiq.jpg",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=20019&uuid=6b600a54-34c6-494a-8d97-9ba872e5c7fd",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=879661~p=0~eid=0000017f-0716-773f-059f-10c000c20004~aet=CAROUSEL~aeid=478405~bt=RESTAURANT~bid=20019",
+        "entityType": "restaurant",
+        "entityId": "20019"
+      },
+      {
+        "id": "476976",
+        "imageId": "rng/md/carousel/production/lxrvatm1vbebmwbtvyvt.jpg",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=16864&uuid=720dbf2a-4792-411b-8a6e-92b0a6eaffda",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=879366~p=1~eid=0000017f-0716-773f-059f-10c100c2017c~aet=CAROUSEL~aeid=476976~bt=RESTAURANT~bid=16864",
+        "entityType": "restaurant",
+        "entityId": "16864"
+      },
+      {
+        "id": "472118",
+        "imageId": "rng/md/carousel/production/oyqdbdmm1g8wbjj8tgzs.png",
+        "action": {
+          "link": "swiggy://fusion-landing?id=DormantP1&show_location=true",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=878067~p=2~eid=0000017f-0716-773f-059f-10c200c20215~aet=CAROUSEL~aeid=472118~bt=DEEP_LINK~bid=swiggy://fusion-landing?id=DormantP1&show_location=true",
+        "entityType": "deeplink",
+        "entityId": "swiggy://fusion-landing?id=DormantP1&show_location=true"
+      },
+      {
+        "id": "467146",
+        "imageId": "rng/md/carousel/production/qx17qjwgovnbkl5ia2sw.png",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=337622&uuid=2a12ea97-ccd0-464b-933c-2f1f4d9ee41e",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=876767~p=3~eid=0000017f-0716-773f-059f-10c300c2030a~aet=CAROUSEL~aeid=467146~bt=RESTAURANT~bid=337622",
+        "entityType": "restaurant",
+        "entityId": "337622"
+      },
+      {
+        "id": "443868",
+        "imageId": "rng/md/carousel/production/ysckrnuqco9ods9hsspq.jpg",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=15684&uuid=751e8b1b-4883-425d-badb-6264a25c661b",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=871091~p=4~eid=0000017f-0716-773f-059f-10c400c2045f~aet=CAROUSEL~aeid=443868~bt=RESTAURANT~bid=15684",
+        "entityType": "restaurant",
+        "entityId": "15684"
+      },
+      {
+        "id": "474240",
+        "imageId": "rng/md/carousel/production/hotasph4c1q3dn94zdqz.jpg",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=56482&uuid=41064d5a-8f3a-495f-b7ca-dd3c9673fccd",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=878709~p=5~eid=0000017f-0716-773f-059f-10c500c20560~aet=CAROUSEL~aeid=474240~bt=RESTAURANT~bid=56482",
+        "entityType": "restaurant",
+        "entityId": "56482"
+      },
+      {
+        "id": "435546",
+        "imageId": "rng/md/carousel/production/y7bdughonjuefaskyoe6.png",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=19989&uuid=3faf61d7-33a6-421e-ac9b-59080550bc5b",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=869344~p=6~eid=0000017f-0716-773f-059f-10c600c20636~aet=CAROUSEL~aeid=435546~bt=RESTAURANT~bid=19989",
+        "entityType": "restaurant",
+        "entityId": "19989"
+      },
+      {
+        "id": "472152",
+        "imageId": "rng/md/carousel/production/pcgvqw6szmlxcp5cwpsp.png",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=433794&uuid=f75d2355-ce05-489e-a696-730927f21c3c",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=878072~p=7~eid=0000017f-0716-773f-059f-10c700c2071c~aet=CAROUSEL~aeid=472152~bt=RESTAURANT~bid=433794",
+        "entityType": "restaurant",
+        "entityId": "433794"
+      },
+      {
+        "id": "457403",
+        "imageId": "rng/md/carousel/production/fppodlwmruqswermavld.png",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=65776&uuid=277b1a78-5143-4adc-b923-258ebef17cf7",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=874401~p=8~eid=0000017f-0716-773f-059f-10c800c2081d~aet=CAROUSEL~aeid=457403~bt=RESTAURANT~bid=65776",
+        "entityType": "restaurant",
+        "entityId": "65776"
+      },
+      {
+        "id": "468701",
+        "imageId": "rng/md/carousel/production/aoe5j6qkfwcp0lipf5ig.png",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=141943&uuid=59281212-736d-4e40-9165-698e70c5a167",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=877135~p=9~eid=0000017f-0716-773f-059f-10c900c20966~aet=CAROUSEL~aeid=468701~bt=RESTAURANT~bid=141943",
+        "entityType": "restaurant",
+        "entityId": "141943"
+      },
+      {
+        "id": "454608",
+        "imageId": "rng/md/carousel/production/yo1koqa7n30agxyea7to.png",
+        "action": {
+          "link": "swiggy://menu?restaurant_id=27822&uuid=b3728a43-7066-4f36-9081-7851e4f48e39",
+          "type": "DEEPLINK"
+        },
+        "adTrackingId": "cid=873752~p=10~eid=0000017f-0716-773f-059f-10ca00c20a10~aet=CAROUSEL~aeid=454608~bt=RESTAURANT~bid=27822",
+        "entityType": "restaurant",
+        "entityId": "27822"
+      }
+    ]
+  },
+  {
+    "gridWidget": {
+      "header": {
+        "title": "All Restaurants Nearby",
+        "subtitle": "Discover unique tastes near you",
+        "action": {},
+        "imageId": "dhvp7qifa77bbnlmapss",
+        "headerStyling": {
+          "padding": {
+            "left": 16,
+            "top": 24,
+            "bottom": 24
+          }
+        }
+      },
+      "layout": {
+        "rows": 25,
+        "columns": 1,
+        "lineSpacing": 24,
+        "widgetPadding": {},
+        "containerStyle": {
+          "containerPadding": {
+            "right": 12,
+            "bottom": 8
+          }
+        },
+        "scrollBar": {
+          "scrollStyling": {
+            "padding": {}
+          }
+        },
+        "autoScrollConfig": {},
+        "separatorConfig": {}
+      },
+      "imageGridCards": {
+        "style": {
+          "width": {},
+          "height": {}
+        }
+      },
+      "id": "restaurantCollectionDeliveringNowTheme",
+      "restaurants": [
+        {
+          "info": {
+            "id": "20019",
+            "name": "Hudson Chopsticks",
+            "cloudinaryImageId": "l3clh7uogyqu8b4igg9r",
+            "locality": "Gate No. 3, GTB Metro",
+            "areaName": "Gtb Nagar",
+            "costForTwo": "₹350 for two",
+            "cuisines": ["Chinese", "Thai", "Pan-Asian", "Oriental"],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "20019",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3100
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3100
+            },
+            "avgRatingString": "4.2",
+            "promoted": true,
+            "adTrackingId": "cid=3603744~p=1~eid=0000017f-0716-77e1-399d-a5190030013f",
+            "sla": {
+              "deliveryTime": 35,
+              "lastMileTravel": 2.3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35 mins",
+              "lastMileTravelString": "2.3 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 01:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹100"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=20019",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "253727",
+            "name": "McDonald's",
+            "cloudinaryImageId": "lqfgzjiakety4hnedjyw",
+            "locality": "Delhi ISBT DMRC (GF)",
+            "areaName": "Kashmere Gate",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["American"],
+            "avgRating": 4.3,
+            "feeDetails": {
+              "restaurantId": "253727",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.3",
+            "sla": {
+              "deliveryTime": 32,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "32 mins",
+              "lastMileTravelString": "3.6 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 22:45:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "FREE ITEM"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=253727",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "44972",
+            "name": "Om di Hatti(Kamla Nagar)",
+            "cloudinaryImageId": "ypoamjz9lkaxlsf6075j",
+            "locality": "Shakti Nagr Chowk",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹150 for two",
+            "cuisines": ["Snacks", "North Indian", "Street Food", "Beverages"],
+            "avgRating": 4.3,
+            "veg": true,
+            "feeDetails": {
+              "restaurantId": "44972",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.3",
+            "sla": {
+              "deliveryTime": 31,
+              "lastMileTravel": 3.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "31 mins",
+              "lastMileTravelString": "3.9 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 22:55:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+              }
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=44972",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "54876",
+            "name": "Delhi 6",
+            "cloudinaryImageId": "abr824zesy5wyp31oku5",
+            "locality": "GT Karnal Road",
+            "areaName": "Ashok Vihar",
+            "costForTwo": "₹500 for two",
+            "cuisines": ["Mughlai", "North Indian"],
+            "feeDetails": {
+              "restaurantId": "54876",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "--",
+            "promoted": true,
+            "adTrackingId": "cid=3613178~p=2~eid=0000017f-0716-77e1-399d-a51a0030023b",
+            "sla": {
+              "deliveryTime": 38,
+              "lastMileTravel": 4.3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "38 mins",
+              "lastMileTravelString": "4.3 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 03:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+              }
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=54876",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "18579",
+            "name": "Bille Di Hatti (Kamla Nagar)",
+            "cloudinaryImageId": "n8hgbbe1irsumyzviqky",
+            "locality": "Kamla Nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹100 for two",
+            "cuisines": ["Street Food"],
+            "avgRating": 4.1,
+            "veg": true,
+            "feeDetails": {
+              "restaurantId": "18579",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.1",
+            "sla": {
+              "deliveryTime": 31,
+              "lastMileTravel": 4.3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "31 mins",
+              "lastMileTravelString": "4.3 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 19:30:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹100"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=18579",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "88546",
+            "name": "Amritsari Kulcha Factory (Gujranwala Town)",
+            "cloudinaryImageId": "wwyyqy4j9rpzvxks5fpi",
+            "locality": "Gujranwala Town",
+            "areaName": "Ashok Vihar",
+            "costForTwo": "₹300 for two",
+            "cuisines": ["North Indian"],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "88546",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 4600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 4600
+            },
+            "avgRatingString": "4.2",
+            "sla": {
+              "deliveryTime": 40,
+              "lastMileTravel": 5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "40 mins",
+              "lastMileTravelString": "5.0 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 19:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹100"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=88546",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "142540",
+            "name": "Dashi - Dimsum & Sushi Bar",
+            "cloudinaryImageId": "w05wavfpx63pbgssdcpl",
+            "locality": "Model Town",
+            "areaName": "Model Town",
+            "costForTwo": "₹1000 for two",
+            "cuisines": ["Japanese", "Chinese", "Pan-Asian", "Sushi"],
+            "avgRating": 4.3,
+            "feeDetails": {
+              "restaurantId": "142540",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.3",
+            "promoted": true,
+            "adTrackingId": "cid=3596505~p=3~eid=0000017f-0716-77e1-399d-a51b00300365",
+            "sla": {
+              "deliveryTime": 35,
+              "lastMileTravel": 4.2,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35 mins",
+              "lastMileTravelString": "4.2 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "40% OFF",
+              "subHeader": "UPTO ₹80"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=142540",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "7606",
+            "name": "Mr Crust Bakers",
+            "cloudinaryImageId": "s9tre35btndvlnw173ax",
+            "locality": "GTB Nagar",
+            "areaName": "Vijay Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["Desserts", "Bakery"],
+            "avgRating": 4.3,
+            "veg": true,
+            "feeDetails": {
+              "restaurantId": "7606",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.3",
+            "sla": {
+              "deliveryTime": 31,
+              "lastMileTravel": 3.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "31 mins",
+              "lastMileTravelString": "3.5 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:59:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "10% OFF",
+              "subHeader": "ABOVE ₹500",
+              "discountTag": "FLAT DEAL"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=7606",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "45622",
+            "name": "Gopal Sweets Corner (Kamla Nagar)",
+            "cloudinaryImageId": "ms0fyojyvisrduycbnby",
+            "locality": "Kamla Nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹200 for two",
+            "cuisines": [
+              "Sweets",
+              "Snacks",
+              "Street Food",
+              "Indian",
+              "North Indian"
+            ],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "45622",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.2",
+            "sla": {
+              "deliveryTime": 34,
+              "lastMileTravel": 4.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "34 mins",
+              "lastMileTravelString": "4.5 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "10% OFF",
+              "subHeader": "UPTO ₹40"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=45622",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "59630",
+            "name": "Burger Singh (Big Punjabi Burgers)",
+            "cloudinaryImageId": "dngisr6rbupjcw9sfbqk",
+            "locality": "Kingsway Camp",
+            "areaName": "Hudson Lane",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "Snacks",
+              "Fast Food",
+              "Indian",
+              "American",
+              "Beverages",
+              "Desserts",
+              "Mughlai",
+              "North Indian",
+              "Biryani",
+              "Tibetan",
+              "Chinese",
+              "Continental"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+              "restaurantId": "59630",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3100
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3100
+            },
+            "avgRatingString": "4.1",
+            "promoted": true,
+            "adTrackingId": "cid=3613766~p=5~eid=0000017f-0716-77e1-399d-a51d00300547",
+            "sla": {
+              "deliveryTime": 28,
+              "lastMileTravel": 2.3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "28 mins",
+              "lastMileTravelString": "2.3 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 03:00:00",
+              "opened": true
+            },
+            "badges": {
+              "textExtendedBadges": [
+                {
+                  "iconId": "gem_solid",
+                  "shortDescription": "Value craft burgers in desi Indian flavours",
+                  "fontColor": "#7E808C"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "shortDescription": "Value craft burgers in desi Indian flavours",
+                        "fontColor": "#7E808C",
+                        "iconId": "gem_solid",
+                        "description": ""
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=59630",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "30207",
+            "name": "Bikanervala",
+            "cloudinaryImageId": "actyptrbtt2tbjielttu",
+            "locality": "Kamla Nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹300 for two",
+            "cuisines": ["North Indian", "Snacks", "Chaat", "Sweets"],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "30207",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.2",
+            "sla": {
+              "deliveryTime": 33,
+              "lastMileTravel": 3.8,
+              "serviceability": "SERVICEABLE",
+              "slaString": "33 mins",
+              "lastMileTravelString": "3.8 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 03:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=30207",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "76216",
+            "name": "Delhi Parantha Company (Gujranwala Town)",
+            "cloudinaryImageId": "u5r0qzaowysomnk06cob",
+            "locality": "Gujranwala Town",
+            "areaName": "Ashok Vihar",
+            "costForTwo": "₹200 for two",
+            "cuisines": ["North Indian"],
+            "avgRating": 4.1,
+            "feeDetails": {
+              "restaurantId": "76216",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 4600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 4600
+            },
+            "avgRatingString": "4.1",
+            "sla": {
+              "deliveryTime": 41,
+              "lastMileTravel": 5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "41 mins",
+              "lastMileTravelString": "5.0 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 04:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=76216",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "128022",
+            "name": "Biryani Blues",
+            "cloudinaryImageId": "o2sygqkadp67l5urgavr",
+            "locality": "GTB Nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Biryani",
+              "Hyderabadi",
+              "Lucknowi",
+              "Kebabs",
+              "Desserts",
+              "Beverages"
+            ],
+            "avgRating": 4,
+            "feeDetails": {
+              "restaurantId": "128022",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.0",
+            "promoted": true,
+            "adTrackingId": "cid=3602935~p=6~eid=0000017f-0716-77e1-399d-a51e00300673",
+            "sla": {
+              "deliveryTime": 34,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "34 mins",
+              "lastMileTravelString": "3.6 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              "textExtendedBadges": [
+                {
+                  "iconId": "gem_solid",
+                  "shortDescription": "Top brand, brought near you by Swiggy",
+                  "fontColor": "#7E808C"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "iconId": "gem_solid",
+                        "description": "",
+                        "shortDescription": "Top brand, brought near you by Swiggy",
+                        "fontColor": "#7E808C"
+                      }
+                    }
+                  ]
+                },
+                "textBased": {},
+                "imageBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹100"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=128022",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "30705",
+            "name": "Shagun",
+            "cloudinaryImageId": "kcoiuhxtckbyqj0tr6vh",
+            "locality": "Vijay Nagar",
+            "areaName": "Hudson Lane",
+            "costForTwo": "₹300 for two",
+            "cuisines": ["Chinese", "Thai", "Japanese", "Tibetan"],
+            "avgRating": 4,
+            "feeDetails": {
+              "restaurantId": "30705",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.0",
+            "sla": {
+              "deliveryTime": 35,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35 mins",
+              "lastMileTravelString": "3.0 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {},
+                "textBased": {},
+                "imageBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹100"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=30705",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "332316",
+            "name": "Haldiram's",
+            "cloudinaryImageId": "js0x1mt1chdwvvaqjejo",
+            "locality": "Tis Hazari",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "Sweets",
+              "Chinese",
+              "South Indian",
+              "Fast Food",
+              "Desserts",
+              "North Indian"
+            ],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "332316",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.2",
+            "sla": {
+              "deliveryTime": 41,
+              "lastMileTravel": 4,
+              "serviceability": "SERVICEABLE",
+              "slaString": "41 mins",
+              "lastMileTravelString": "4.0 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 22:30:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "imageBased": {},
+                "textExtendedBadges": {},
+                "textBased": {}
+              }
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=332316",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "88982",
+            "name": "Taco Bell",
+            "cloudinaryImageId": "vfzq2untiamepomrrtav",
+            "locality": "Kamla Nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹300 for two",
+            "cuisines": ["Mexican"],
+            "avgRating": 4.4,
+            "feeDetails": {
+              "restaurantId": "88982",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.4",
+            "promoted": true,
+            "adTrackingId": "cid=3614155~p=7~eid=0000017f-0716-77e1-399d-a51f0030072a",
+            "sla": {
+              "deliveryTime": 37,
+              "lastMileTravel": 3.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "37 mins",
+              "lastMileTravelString": "3.5 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {},
+                "textBased": {},
+                "imageBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=88982",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "20028",
+            "name": "The Burger Club",
+            "cloudinaryImageId": "pjigc73gfnqadi5p1jja",
+            "locality": "Gate No. 1, GTB Metro",
+            "areaName": "Mukherjee Nagar",
+            "costForTwo": "₹250 for two",
+            "cuisines": ["Fast Food", "American", "Beverages", "Desserts"],
+            "avgRating": 4,
+            "feeDetails": {
+              "restaurantId": "20028",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3100
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3100
+            },
+            "avgRatingString": "4.0",
+            "sla": {
+              "deliveryTime": 30,
+              "lastMileTravel": 2.3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "30 mins",
+              "lastMileTravelString": "2.3 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 04:00:00",
+              "opened": true
+            },
+            "badges": {
+              "textExtendedBadges": [
+                {
+                  "iconId": "gem_solid",
+                  "shortDescription": "Handmade patties, real ingredients, no preservatives",
+                  "fontColor": "#7E808C"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "iconId": "gem_solid",
+                        "description": "",
+                        "shortDescription": "Handmade patties, real ingredients, no preservatives",
+                        "fontColor": "#7E808C"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=20028",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "15025",
+            "name": "For God's Cake",
+            "cloudinaryImageId": "hr4naf8r8tsushy3k1zj",
+            "locality": "Hudson Lane",
+            "areaName": "Gujranwala Town",
+            "costForTwo": "₹300 for two",
+            "cuisines": [
+              "Bakery",
+              "Desserts",
+              "Beverages",
+              "Pizzas",
+              "Pastas",
+              "Snacks"
+            ],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "15025",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.2",
+            "sla": {
+              "deliveryTime": 29,
+              "lastMileTravel": 4.8,
+              "serviceability": "SERVICEABLE",
+              "slaString": "29 mins",
+              "lastMileTravelString": "4.8 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 02:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=15025",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "128116",
+            "name": "La Pino'z Pizza ",
+            "cloudinaryImageId": "hgvtyqrxzvpwmbs361er",
+            "locality": "Kamla Nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "Italian",
+              "Pizzas",
+              "Fast Food",
+              "Mexican",
+              "Desserts",
+              "Beverages"
+            ],
+            "avgRating": 3.8,
+            "feeDetails": {
+              "restaurantId": "128116",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "3.8",
+            "promoted": true,
+            "adTrackingId": "cid=3596997~p=9~eid=0000017f-0716-77e1-399d-a52100300962",
+            "sla": {
+              "deliveryTime": 32,
+              "lastMileTravel": 3.9,
+              "serviceability": "SERVICEABLE",
+              "slaString": "32 mins",
+              "lastMileTravelString": "3.9 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 03:30:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "50% OFF",
+              "subHeader": "UPTO ₹100"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=128116",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "240011",
+            "name": "Chinese Corner",
+            "cloudinaryImageId": "ftnhlozjcjb6z37kvnq3",
+            "locality": "Tis Hazari",
+            "areaName": "GTB Nagar",
+            "costForTwo": "₹300 for two",
+            "cuisines": ["Chinese", "Pan-Asian", "Thai", "Fast Food", "Snacks"],
+            "avgRating": 4.1,
+            "feeDetails": {
+              "restaurantId": "240011",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 4600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 4600
+            },
+            "avgRatingString": "4.1",
+            "sla": {
+              "deliveryTime": 35,
+              "lastMileTravel": 5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "35 mins",
+              "lastMileTravelString": "5.0 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:59:00",
+              "opened": true
+            },
+            "badges": {
+              "textExtendedBadges": [
+                {
+                  "iconId": "gem_solid",
+                  "shortDescription": "Top brand, brought near you by Swiggy",
+                  "fontColor": "#7E808C"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "iconId": "gem_solid",
+                        "description": "",
+                        "shortDescription": "Top brand, brought near you by Swiggy",
+                        "fontColor": "#7E808C"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "20% OFF",
+              "subHeader": "ABOVE ₹800",
+              "discountTag": "FLAT DEAL"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=240011",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "340163",
+            "name": "Tikka Junction (Model Town)",
+            "cloudinaryImageId": "b0h47qxxix9btal3jqoo",
+            "locality": "Model Town",
+            "areaName": "Model Town",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["Indian"],
+            "avgRating": 3.8,
+            "feeDetails": {
+              "restaurantId": "340163",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "3.8",
+            "promoted": true,
+            "adTrackingId": "cid=3601857~p=12~eid=0000017f-0716-77e1-399d-a52400300c0e",
+            "sla": {
+              "deliveryTime": 40,
+              "lastMileTravel": 4.8,
+              "serviceability": "SERVICEABLE",
+              "slaString": "40 mins",
+              "lastMileTravelString": "4.8 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 02:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=340163",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "76225",
+            "name": "Subway",
+            "cloudinaryImageId": "idbtznammr4xaxjtzucl",
+            "locality": "Kamla nagar",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹350 for two",
+            "cuisines": ["Salads", "Snacks", "Desserts", "Beverages"],
+            "avgRating": 4.3,
+            "feeDetails": {
+              "restaurantId": "76225",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.3",
+            "sla": {
+              "deliveryTime": 29,
+              "lastMileTravel": 3,
+              "serviceability": "SERVICEABLE",
+              "slaString": "29 mins",
+              "lastMileTravelString": "3.0 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "aggregatedDiscountInfoV2": {},
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {},
+                "textBased": {},
+                "imageBased": {}
+              }
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=76225",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "148719",
+            "name": "Bikkgane Biryani",
+            "cloudinaryImageId": "v4ed1gs2zmtyyskznm2x",
+            "locality": "GTB Nagar",
+            "areaName": "Mukherjee Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": [
+              "Biryani",
+              "Hyderabadi",
+              "Andhra",
+              "South Indian",
+              "North Indian",
+              "Mughlai",
+              "Kebabs"
+            ],
+            "avgRating": 4.1,
+            "feeDetails": {
+              "restaurantId": "148719",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.1",
+            "sla": {
+              "deliveryTime": 29,
+              "lastMileTravel": 3.6,
+              "serviceability": "SERVICEABLE",
+              "slaString": "29 mins",
+              "lastMileTravelString": "3.6 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 00:00:00",
+              "opened": true
+            },
+            "badges": {
+              "textExtendedBadges": [
+                {
+                  "iconId": "gem_solid",
+                  "shortDescription": "Authentic biryani made by local Hyderabadi chefs",
+                  "fontColor": "#7E808C"
+                }
+              ]
+            },
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textBased": {},
+                "imageBased": {},
+                "textExtendedBadges": {
+                  "badgeObject": [
+                    {
+                      "attributes": {
+                        "description": "",
+                        "shortDescription": "Authentic biryani made by local Hyderabadi chefs",
+                        "fontColor": "#7E808C",
+                        "iconId": "gem_solid"
+                      }
+                    }
+                  ]
+                }
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "60% OFF",
+              "subHeader": "UPTO ₹120"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=148719",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "26713",
+            "name": "KFC",
+            "cloudinaryImageId": "ftti5d6bmyvhembkshzh",
+            "locality": "Bungalow Road",
+            "areaName": "Kamla Nagar",
+            "costForTwo": "₹400 for two",
+            "cuisines": ["American", "Snacks"],
+            "avgRating": 4.2,
+            "feeDetails": {
+              "restaurantId": "26713",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3600
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3600
+            },
+            "avgRatingString": "4.2",
+            "sla": {
+              "deliveryTime": 32,
+              "lastMileTravel": 3.5,
+              "serviceability": "SERVICEABLE",
+              "slaString": "32 mins",
+              "lastMileTravelString": "3.5 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-17 23:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {},
+                "textBased": {},
+                "imageBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "20% OFF",
+              "subHeader": "UPTO ₹50"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=26713",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        },
+        {
+          "info": {
+            "id": "188554",
+            "name": "Italio By Hudson Chopsticks",
+            "cloudinaryImageId": "jrqe2f3cfqg7a4qism23",
+            "locality": "GTB Nagar",
+            "areaName": "Gtb Nagar",
+            "costForTwo": "₹250 for two",
+            "cuisines": [
+              "Italian",
+              "Pizzas",
+              "Pastas",
+              "Continental",
+              "Salads",
+              "American"
+            ],
+            "avgRating": 4,
+            "feeDetails": {
+              "restaurantId": "188554",
+              "fees": [
+                {
+                  "name": "BASE_DISTANCE",
+                  "fee": 3100
+                },
+                {
+                  "name": "BASE_TIME"
+                },
+                {
+                  "name": "ANCILLARY_SURGE_FEE"
+                }
+              ],
+              "totalFee": 3100
+            },
+            "avgRatingString": "4.0",
+            "sla": {
+              "deliveryTime": 31,
+              "lastMileTravel": 2.7,
+              "serviceability": "SERVICEABLE",
+              "slaString": "31 mins",
+              "lastMileTravelString": "2.7 kms",
+              "iconType": "ICON_TYPE_EMPTY"
+            },
+            "availability": {
+              "nextCloseTime": "2022-02-18 01:00:00",
+              "opened": true
+            },
+            "badges": {},
+            "isOpen": true,
+            "type": "F",
+            "badgesV2": {
+              "entityBadges": {
+                "textExtendedBadges": {},
+                "textBased": {},
+                "imageBased": {}
+              }
+            },
+            "aggregatedDiscountInfoV3": {
+              "header": "40% OFF",
+              "subHeader": "UPTO ₹80"
+            }
+          },
+          "analytics": {},
+          "cta": {
+            "link": "swiggy://menu?restaurant_id=188554",
+            "text": "RESTAURANT_MENU",
+            "type": "DEEPLINK"
+          }
+        }
+      ],
+      "footer": {
+        "labelWrapper": {
+          "@type": "type.googleapis.com/swiggy.gandalf.widgets.v2.Label",
+          "text": "SEE ALL",
+          "textColor": "#ffffff",
+          "fontSize": 17,
+          "fontName": "FONT_NAME_BOLD",
+          "alignment": "ALIGNMENT_CENTER",
+          "borderRadius": 6,
+          "margin": {
+            "left": 16,
+            "top": 16,
+            "right": 16,
+            "bottom": 16
+          },
+          "padding": {
+            "top": 18,
+            "bottom": 18
+          },
+          "backgroundColor": "#e46d47",
+          "cta": {
+            "link": "swiggy://restaurantList",
+            "text": "SEE ALL",
+            "type": "DEEPLINK"
+          },
+          "maxLines": 1
+        }
+      }
+    }
+  }
+]
